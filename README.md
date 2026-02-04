@@ -1,4 +1,10 @@
 ## Hi there 👋
+#### My name is Faridah Nakabugo, I am on a learning journey to becoming a Data Scientist! 
+I have currently obtained a certification in Data Analytics from ALX Africa, with the following skills: 
+- SQL
+- Google sheets
+- Power BI
+- MySQL
 
 <!--
 **F-Nakabugo/F-Nakabugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
