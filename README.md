@@ -5,6 +5,10 @@ I have currently obtained a certification in Data Analytics from ALX Africa, wit
 - Google sheets
 - Power BI
 - MySQL
+### Welcome to My first Project 
+Project title: Understanding water access in Maji Ndogo 
+The project focuses on a fictional country of Maji Ndogo which comprised of 5 provinces namely 
+Amanzi, Akatsi, Hawassa, Kilimani, and Sokoto. 
 
 <!--
 **F-Nakabugo/F-Nakabugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
