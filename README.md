@@ -1,11 +1,13 @@
-## Hi there 👋
-#### My name is Faridah Nakabugo, I am on a learning journey to becoming a Data Scientist! 
-I have currently obtained a certification in Data Analytics from ALX Africa, with the following skills: 
+### Hi there 👋
+##### My name is Faridah Nakabugo, I am a Data Analyst! 
+##### 💬 What to know about me in 30 seconds, 
+🌱 Recently completed a course in Data Analytics from ALX Africa and obtained the skills below:  
 - SQL
 - Google sheets
 - Power BI
-- MySQL
-### Welcome to My first Project 
+🌱 I transitioned from Geomatics engineering with over 5 years of professional experience.
+🌱 I am passionate about working with data to address community challenges.
+#### Welcome to My first Project 
 Project title: Understanding water access in Maji Ndogo 
 The project focuses on a fictional country of Maji Ndogo which comprised of 5 provinces namely 
 Amanzi, Akatsi, Hawassa, Kilimani, and Sokoto. 
